@@ -4,3 +4,4 @@
       3) now go to page link and show this theme
 
       markup link: (https://demos.freehtml5.co/launcher/)
+      [Link text](https://website-name.com 'Link title')
