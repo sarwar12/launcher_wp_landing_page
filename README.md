@@ -3,5 +3,4 @@
       2) then select page templates > launcer template page
       3) now go to page link and show this theme
 
-      markup link: https://demos.freehtml5.co/launcher/
-      <a href="https://readme.com/" target="_blank">ReadMe</a>
+      markup link: (https://demos.freehtml5.co/launcher/)
